@@ -1,5 +1,5 @@
 <h1 align="center">Hey There 👋 My Name is Ajay Ravesh</h1>
-<h3 align="center">I’m familiar with a variety of programming languages, including JavaScript, HTML, CSS, Python, Java but I’m always adding new skills to my repertoire. I’m also eager to meet other software engineers and developers in the area, so feel free to connect!</h3>
+<h3 align="center">I'm a MCA first year student at CDAC Noida, I’m familiar with a variety of programming languages, including JavaScript, HTML, CSS, Python, Java but I’m always adding new skills to my repertoire. I’m also eager to meet other software engineers and developers in the area, so feel free to connect!</h3>
 
 - 📫 How to reach me **ajayravesh@gmail.com**
 
